@@ -2,8 +2,11 @@
 
 Link to paper: https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00160-7/fulltext#
 
+![2IgG seroprevalence (with 95% CI) in Addis Ababa by sub-cities](/assets/gr2_lrg.jpg)
+
 ## Background
 The spread of SARS-CoV-2 in Sub-Saharan Africa is poorly understood and to date has generally been characterised by a lower number of declared cases and deaths as compared to other regions of the world. Paucity of reliable information, with insights largely derived from limited RT-PCR testing in high-risk and urban populations, has been one of the biggest barriers to understanding the course of the pandemic and informed policy-making. Here we estimate seroprevalence of anti-SARS-CoV-2 antibodies in Ethiopia during the first wave of the pandemic.
+
 ## Methods
 We undertook a population-based household seroprevalence serosurvey based on 1856 participants in Ethiopia, in the capital city Addis Ababa, and in Jimma, a middle-sized town in the Oromia region, and its rural surroundings (districts of Seka and Mana), between 22 July and 02 September 2020. We tested one random participant per household for anti-SARS-CoV-2 antibodies using a high specificity rapid diagnostic tests (RDTs) and evaluated population seroprevalence using a Bayesian logistic regression model taking into account test performance as well as age and sex of the participants.
 
